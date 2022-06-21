@@ -24,15 +24,15 @@ You must have at least have 3 primary items that cost 0.65, 1.00, and 1.50. Also
 - Currently inserted money
 ## Examples
 ``code`
-Example 1: Buy Soda with exact change
+- [] Example 1: Buy Soda with exact change
 1, 0.25, 0.25, GET-SODA
 -> SODA
 
-Example 2: Start adding money, but user ask for return coin
+- [] Example 2: Start adding money, but user ask for return coin
 0.10, 0.10, RETURN-COIN
 -> 0.10, 0.10
 
-Example 3: Buy Water without exact change
+- [] Example 3: Buy Water without exact change
 1, GET-WATER
 -> WATER, 0.25, 0.10 `
 ## Considerations
@@ -45,4 +45,7 @@ When you finish, why not go to an extra mille and add some tests? :)
   - Requirements
 - Please make sure the name Holded are not referenced in any place in your code.
 Commit from the very beginning and commit often. We value the possibility to review your git log.
-[original repo](https://github.com/holdedhub/careers/tree/main/challenges/backend)
+<br>
+| Title | Link |
+| Source of idea | [original repo](https://github.com/holdedhub/careers/tree/main/challenges/backend) |
+==:joy:==
