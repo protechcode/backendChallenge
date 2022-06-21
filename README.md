@@ -48,4 +48,8 @@ Commit from the very beginning and commit often. We value the possibility to rev
 <br>
 | Title | Link |
 | Source of idea | [original repo](https://github.com/holdedhub/careers/tree/main/challenges/backend) |
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 ==:joy:==
