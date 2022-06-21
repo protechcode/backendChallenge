@@ -45,4 +45,4 @@ When you finish, why not go to an extra mille and add some tests? :)
   - Requirements
 - Please make sure the name Holded are not referenced in any place in your code.
 Commit from the very beginning and commit often. We value the possibility to review your git log.
-!logo[alt logo holded](image.jpg)
+[original repo](https://github.com/holdedhub/careers/tree/main/challenges/backend)
