@@ -48,3 +48,7 @@ Commit from the very beginning and commit often. We value the possibility to rev
 <br>
 ---
 Source idea [original repo](https://github.com/holdedhub/careers/tree/main/challenges/backend) :joy::joy::joy:
+
+### Wich tecnologies I use?
+### How you can install the dependencies?
+### How you can run this project?
